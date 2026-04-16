@@ -19,6 +19,6 @@ public class App {
         return a / b;
     }
 
-    System.out.println("Done by Kaarthik!");
+    System.out.println("Done by Kaarthik1!");
 
 }
